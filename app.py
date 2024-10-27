@@ -1217,4 +1217,4 @@ async def thing(interaction: discord.Interaction, crashpoint1: float, crashpoint
 
 
 
-client.run('MTIyNTUyMTU1MDY0ODY3MjQ3OQ.Gd8pWF._byrKO_qGFmZG1Xpj81JX1xmbK9r9yn-WNPwdU')
+client.run('MTMwMDA2MTI2MDc0MTg2OTU3OQ.GWph-D.eMx3vRogphI_xeSBU9pIF5LG6quGc7Jw6swJ8c')
