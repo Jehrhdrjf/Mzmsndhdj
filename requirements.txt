@@ -1,0 +1,7 @@
+scikit-learn
+numpy
+discord.py
+gunicorn
+Flask
+torch
+tensorflow
